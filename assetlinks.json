@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hansaresearch.cheetah",
+      "sha256_cert_fingerprints": ["44:48:FD:F4:04:13:4B:41:C6:34:39:3C:CA:B0:BA:4C:59:4E:BE:A8:04:6C:A9:3E:1A:4A:4F:40:F9:F4:8D:77"]
+    }
+  }
+]
